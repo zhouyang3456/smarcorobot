@@ -1,0 +1,21 @@
+age: 18
+video_path: /home/zhou/Videos/
+#video_path: /home/smarcorobot/Videos/ 
+skills:
+  android: 1
+  python: 1
+  c++: 1
+  java: 1
+sex: male
+audio_path: /home/zhou/Music/
+#audio_path: /home/smarcorobot/Music/
+audio_name: 84F39796-02E7-46F1-B079-3BDD97C74671.mp3
+cloud_ip: 221.231.13.226
+video_name:
+  - 82630FE3-E40F-
+  - 82630FE3-E40F-4
+video_name_current: 82630FE3-E40F-4DE
+cloud_port: 58092
+name: frank
+prompt_voice_path: /home/zhou/video/
+#prompt_voice_path: /home/smarcorobot/video/
